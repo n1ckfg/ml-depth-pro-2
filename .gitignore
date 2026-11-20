@@ -9,3 +9,6 @@ checkpoints
 *.mlpackage
 out/
 *.log
+*.mp4
+*.mov
+
